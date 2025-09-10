@@ -4,7 +4,9 @@ Bu proje ile dik bir platform üzerinde gezebilen ve temizlik işlemi yapabilen 
 
 ---
 <img src="https://github.com/user-attachments/assets/34e30a85-f39e-43b4-906e-12d4aa554501" width="300"/>
+
 <img src="https://github.com/user-attachments/assets/4304b50c-a6aa-4919-acdc-ea3245515ea8" width="300"/>
+
 
 ---
 

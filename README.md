@@ -3,8 +3,11 @@
 Bu proje ile dik bir platform üzerinde gezebilen ve temizlik işlemi yapabilen bir robot tasarlanılması amaçlanmaktadır. Buna göre; robotun 100 cm x 50 cm’lik belirlenmiş bir levha üzerinde gezerek, sağa-sola ve aşağı-yukarı hareket edebilmesi hedeflenmektedir.
 
 ---
-![IMG-20250515-WA0010](https://github.com/user-attachments/assets/34e30a85-f39e-43b4-906e-12d4aa554501)
-![IMG-20250515-WA0011](https://github.com/user-attachments/assets/4304b50c-a6aa-4919-acdc-ea3245515ea8)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/34e30a85-f39e-43b4-906e-12d4aa554501" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4304b50c-a6aa-4919-acdc-ea3245515ea8" width="250"/>
+</p>
+
 
 ---
 
